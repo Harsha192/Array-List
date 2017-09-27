@@ -148,7 +148,7 @@ public class Array {
             return excepArray;
         }
     }
-
+// testing
     //clear() method will remove all the element from the array
     public void clear(){
         intArray = null;
