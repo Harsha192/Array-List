@@ -19,7 +19,7 @@ public class Array {
 
     //initial array with the size of user enater
     private int[] intArray = new int[this.arraySize];
-
+//hjhbkjhkjgig
 
     //add() method with int argument to store the input argument
     public void add(int d){
